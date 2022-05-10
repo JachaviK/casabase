@@ -130,6 +130,57 @@ http://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 https://tivustream.website/urls/fanpage
 #EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/tv2000.png" group-title="TOP ITALIA",Tv 2000
 http://mi1.wz.tv2000.it/tv2000_alfa.m3u8
+#EXTINF:-1,Sky Uno HD
+http://cdn.ayproviders.xyz:80/live/salvatoreparisi/Salvatore1/2001.m3u8
+#EXTINF:-1,Sky Uno +1 HD
+http://cdn.ayproviders.xyz:80/live/salvatoreparisi/Salvatore1/4397.m3u8
+#EXTINF:-1,Sky Atlantic HD
+http://cdn.ayproviders.xyz:80/live/salvatoreparisi/Salvatore1/2005.m3u8
+#EXTINF:-1,Sky Atlantic +1 HD
+http://cdn.ayproviders.xyz:80/live/salvatoreparisi/Salvatore1/4398.m3u8
+#EXTINF:-1,Sky Serie HD
+http://cdn.ayproviders.xyz:80/live/salvatoreparisi/Salvatore1/145768.m3u8
+#EXTINF:-1,Sky Serie +1 HD
+http://cdn.ayproviders.xyz:80/live/salvatoreparisi/Salvatore1/145775.m3u8
+#EXTINF:-1,Sky Investigation HD
+http://cdn.ayproviders.xyz:80/live/salvatoreparisi/Salvatore1/3053.m3u8
+#EXTINF:-1,Sky Investigation +1 HD
+http://cdn.ayproviders.xyz:80/live/salvatoreparisi/Salvatore1/4401.m3u8
+#EXTINF:-1,Fox HD
+http://cdn.ayproviders.xyz:80/live/salvatoreparisi/Salvatore1/2142.m3u8
+#EXTINF:-1,Fox +1 HD
+http://cdn.ayproviders.xyz:80/live/salvatoreparisi/Salvatore1/4399.m3u8
+#EXTINF:-1,Crime Investigation HD
+http://cdn.ayproviders.xyz:80/live/salvatoreparisi/Salvatore1/2018.m3u8
+#EXTINF:-1,TV8
+http://cdn.ayproviders.xyz:80/live/salvatoreparisi/Salvatore1/3597.m3u8
+#EXTINF:-1,Blaze HD
+http://cdn.ayproviders.xyz:80/live/salvatoreparisi/Salvatore1/23848.m3u8
+#EXTINF:-1,Comedy Central HD
+http://cdn.ayproviders.xyz:80/live/salvatoreparisi/Salvatore1/4403.m3u8
+#EXTINF:-1,MTV HD
+http://cdn.ayproviders.xyz:80/live/salvatoreparisi/Salvatore1/24290.m3u8
+#EXTINF:-1,Classica HD
+http://cdn.ayproviders.xyz:80/live/salvatoreparisi/Salvatore1/151341.m3u8
+#EXTINF:-1,Nove HD
+http://cdn.ayproviders.xyz:80/live/salvatoreparisi/Salvatore1/13871.m3u8
+#EXTINF:-1,Canale 20 Mediaset HD
+http://cdn.ayproviders.xyz:80/live/salvatoreparisi/Salvatore1/38461.m3u8
+#EXTINF:-1,Cielo
+http://cdn.ayproviders.xyz:80/live/salvatoreparisi/Salvatore1/2171.m3u8
+#EXTINF:-1,27 Twenty Seven
+http://cdn.ayproviders.xyz:80/live/salvatoreparisi/Salvatore1/3326.m3u8
+#EXTINF:-1,La 5
+http://cdn.ayproviders.xyz:80/live/salvatoreparisi/Salvatore1/1892.m3u8
+#EXTINF:-1,Real Time
+http://cdn.ayproviders.xyz:80/live/salvatoreparisi/Salvatore1/2007.m3u8
+#EXTINF:-1,Mediaset Extra
+http://cdn.ayproviders.xyz:80/live/salvatoreparisi/Salvatore1/1894.m3u8
+#EXTINF:-1,Giallo
+http://cdn.ayproviders.xyz:80/live/salvatoreparisi/Salvatore1/1898.m3u8
+#EXTINF:-1,Top Crime
+http://cdn.ayproviders.xyz:80/live/salvatoreparisi/Salvatore1/2143.m3u8
+#EXTINF:-1,Dmax
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/V/vatican-media-reduced-logo-BA4C1272D1-seeklogo.com.png" group-title="TOP ITALIA",Vatican Media
 https://tivustream.website/urls/vaticanmedialive
 #EXTINF:-1 tvg-logo="https://media.glassdoor.com/sqll/1135673/sanctuaires-notre-dame-de-lourdes-squarelogo-1456834408012.png" group-title="TOP ITALIA",Lourdes Live
