@@ -84,6 +84,12 @@ https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(lt)/index
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_3@810997/master.m3u8
 #EXTINF:-1 tvg-logo="http://patbuweb.com/tivustream/chanlogoz/ita/nove.png" group-title="TOP ITALIA",Nove HD (Opz.2)
 http://194.76.186.69:8000/play/a0fh 
+#EXTINF:-1,IT: DMAX HD
+http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/40092
+#EXTINF:-1,IT: Real Time HD
+http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/40094
+#EXTINF:-1,IT: Giallo HD
+http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/40095
 #EXTINF:-1 tvg-logo="https://www.popeconomy.tv/wp-content/uploads/2021/02/cropped-pop2-1.jpeg" group-title="TOP ITALIA",Pop Economy
 https://tivustream.website/urls/popeco
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/RSI_La_1_2012.svg/390px-RSI_La_1_2012.svg.png" group-title="TOP ITALIA",RSI La1
